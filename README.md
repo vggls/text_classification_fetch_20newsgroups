@@ -7,7 +7,9 @@
 
 ## Workflow - Architecture
 
-(to be inserted)
+<p float="center">
+     <img src="https://github.com/vggls/text_classification_fetch_20newsgroups/assets/55101427/34a6c0dc-8f13-42e1-ad20-8980e33370d6.png" height="470" width="800" />
+</p>
 
 ## Test Results
 
