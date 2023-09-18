@@ -5,14 +5,14 @@
 - Allocated into 20 categories
 - Dataset source: https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
 
-## Workflow - Architecture
+## Workflow
 
 <p float="center">
-     <img src="https://github.com/vggls/text_classification_fetch_20newsgroups/assets/55101427/84142ac9-b761-48e8-8272-5a8a04d598ec.png" height="475" width="800" />
+     <img src="https://github.com/vggls/text_classification_fetch_20newsgroups/assets/55101427/701ce548-bbff-481a-80c0-e6ed5ef78d1c.png" height="475" width="800" />
 </p>
 
 <p float="center">
-     <img src=".png" height="475" width="800" />
+     <img src="https://github.com/vggls/text_classification_fetch_20newsgroups/assets/55101427/8b66982d-4481-420b-9ad8-d8d050657bca.png" height="350" width="900" />
 </p>
 
 ## Test Results
