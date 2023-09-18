@@ -12,7 +12,7 @@
 </p>
 
 <p float="center">
-     <img src="https://github.com/vggls/text_classification_fetch_20newsgroups/assets/55101427/8b66982d-4481-420b-9ad8-d8d050657bca.png" height="350" width="900" />
+     <img src="https://github.com/vggls/text_classification_fetch_20newsgroups/assets/55101427/8b66982d-4481-420b-9ad8-d8d050657bca.png" height="380" width="950" />
 </p>
 
 ## Test Results
